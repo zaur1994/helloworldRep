@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Hello World from pro1!");
         System.out.println("Hello World from pro2!");
         System.out.println("Test pull before push2!");
+        System.out.println("Test pull before push1");
     }
 }
